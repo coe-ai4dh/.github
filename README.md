@@ -11,6 +11,8 @@ leading to new insights and a broader understanding of cultural and historical p
 Our primary goal is to strengthen collaboration across disciplines, including computer science, AI, 
 linguistics, history, media studies, folkloristics, journalism, and philosophy.
 
+If you wish to collaborate with us, feel free to contact us with your research questions at: https://ai4dh.eu/collaborate-with-us/
+
 # Research Focus
 
 Our research currently focuses on the following topics, among others:
